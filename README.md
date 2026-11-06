@@ -11,7 +11,7 @@ Associated manuscript: *Aggregation-Dependent Nanomechanics of Quasi-Two-Dimensi
 
 | File | Content |
 |---|---|
-| `Film raw data Amplitede & Phase.zip` | 64 amplitude/phase curve pairs of the film (128 Excel files) |
+| `Film raw data Amplitude & Phase.zip` | 64 amplitude/phase curve pairs of the film (128 Excel files) |
 | `Cluster raw data Amplitude & Phase.zip` | 68 amplitude/phase curve pairs of the clusters (136 Excel files) |
 
 ## File format
